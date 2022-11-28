@@ -7,4 +7,4 @@ I have learnt how to:
 2) _Stage_, _Commit_, _Push_ from the **local** repository to the **origin**: `Stage`, `Commit`, `Push`
 3) Make changes online and _Pull_ the changes down: `Commit` on Github and `Pull` in GitKraken
 
-**Important note**: Git works with **Markdown** file
+**Important note**: Git works with **[Markdown]** file(https://www.markdownguide.org/extended-syntax)
